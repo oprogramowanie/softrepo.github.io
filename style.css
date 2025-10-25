@@ -1,0 +1,103 @@
+body {
+  font-family: "VT323", monospace;
+  line-height: normal;
+  text-align: center;
+}
+
+.obr100 {
+  max-width:100%;
+  height:auto;
+  image-rendering: smooth;
+}
+
+.obrk {
+  max-width:100%;
+  max-height:auto;
+  height:205px;
+  width:auto;
+  image-rendering: smooth;
+  border: black 2px solid;
+  box-shadow: 5px 5px 5px lightgray;
+}
+
+.cz12 {
+  font-size: 12pt;
+}
+
+.cz70 {
+  font-size: 70pt;
+}
+
+.cz20i {
+  font-size: 20pt;
+  line-height: 0.8;
+}
+
+.cz20 {
+  font-size: 20pt;
+}
+
+.cz20p {
+  font-size: 20pt;
+  line-height: 1.0;
+}
+
+.cz25 {
+  font-size: 25pt;
+}
+
+.cz17 {
+  font-size: 17pt;
+}
+
+.cz15 {
+  font-size: 15pt;
+}
+
+.obrhl {
+  max-width:170px;
+  height:auto;
+  image-rendering: smooth;
+}
+
+.wbr {
+	background-image: url("images/wbr.png");
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: bottom;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.kp {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: gray 2px solid;
+    width: 240px;
+    height: auto;
+    max-width: 100%;
+    max-height: auto;
+    font-size: 25pt;
+    border-radius: 7px;
+    margin: 10px;
+    padding: 5px;
+    
+}
+
+.kp:hover {
+    box-shadow: 5px 5px 5px lightgray;
+}
+
+.kp img {
+    max-width:32px;
+    height:auto;
+    padding-right: 10px;
+	image-rendering: smooth;
+}
+
+
+a:hover {
+	color: purple;
+}
