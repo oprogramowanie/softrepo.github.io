@@ -92,7 +92,7 @@ body {
 }
 
 .kp img {
-    width:42px;
+    width:32px;
     height:32px;
     padding-right: 10px;
 	image-rendering: smooth;
@@ -107,4 +107,5 @@ a:hover {
 	color: purple;
 
 }
+
 
