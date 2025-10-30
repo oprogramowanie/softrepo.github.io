@@ -12,7 +12,6 @@ body {
 
 .obrk {
   max-width:100%;
-  max-height:auto;
   height:205px;
   width:auto;
   image-rendering: smooth;
@@ -78,7 +77,6 @@ body {
     width: 240px;
     height: auto;
     max-width: 100%;
-    max-height: auto;
     font-size: 25pt;
     border-radius: 7px;
     margin: 10px;
@@ -92,7 +90,7 @@ body {
 }
 
 .kp img {
-    width:32px;
+    max-width:32px;
     height:32px;
     padding-right: 10px;
 	image-rendering: smooth;
@@ -105,7 +103,4 @@ a {
 
 a:hover {
 	color: purple;
-
 }
-
-
