@@ -1,3 +1,7 @@
+html {
+	height: 99%
+}
+
 body {
   font-family: "VT323", monospace;
   line-height: normal;
@@ -6,8 +10,7 @@ body {
   background-repeat: no-repeat;
   background-position: right 0px bottom -5px;
   background-size: 110px auto;
-  height: 98vh;
-  width: auto;
+  min-height: 100%
 }
 
 .obr100 {
