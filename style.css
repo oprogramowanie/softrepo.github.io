@@ -93,6 +93,14 @@ body {
     color: rebeccapurple;
 }
 
+.blank {
+	height: 200px;
+}
+
+.blankpm {
+	height: 120px;
+}
+
 .kp:hover {
     box-shadow: 5px 5px 5px lightgray;
 	color: purple;
