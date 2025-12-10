@@ -1,6 +1,5 @@
 html{
   min-height: 100%;
-  width: 100%;
 }
 
 body {
@@ -137,4 +136,5 @@ a {
 
 a:hover {
 	color: purple;
+
 }
