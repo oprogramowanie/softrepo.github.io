@@ -78,62 +78,62 @@ body {
 }
 
 .wbr {
-	background-image: url("images/wbr.png");
-	background-repeat: no-repeat;
-	background-size: contain;
-	background-position: bottom;
-	margin-left: 5%;
-    margin-right: 5%;
+  background-image: url("images/wbr.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 .kp {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
-    border: gray 2px solid;
-    width: 240px;
-    height: auto;
-    max-width: 100%;
-    font-size: 25pt;
-    border-radius: 7px;
-    margin: 10px;
-    padding: 5px;
-    color: rebeccapurple;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border: gray 2px solid;
+  width: 240px;
+  height: auto;
+  max-width: 100%;
+  font-size: 25pt;
+  border-radius: 7px;
+  margin: 10px;
+  padding: 5px;
+  color: rebeccapurple;
 }
 
 .blank {
-	height: 185px;
+  height: 185px;
 }
 
 .blankpm {
-	height: 105px;
+  height: 105px;
 }
 
 .blankl {
-	height: 25px;
+  height: 25px;
 }
 
 .blankh {
-	height: 45px;
+  height: 45px;
 }
 
 .kp:hover {
-    box-shadow: 5px 5px 5px lightgray;
-	color: purple;
+  box-shadow: 5px 5px 5px lightgray;
+  color: purple;
 }
 
 .kp img {
-    max-width: 32px;
-    height: 32px;
-    padding-right: 10px;
-	image-rendering: smooth;
+  max-width: 32px;
+  height: 32px;
+  padding-right: 10px;
+  image-rendering: smooth;
 }
 
 a {
-	color: rebeccapurple;
+  color: rebeccapurple;
 }
 
 a:hover {
-	color: purple;
+  color: purple;
 }
