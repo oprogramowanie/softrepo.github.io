@@ -13,6 +13,14 @@ body {
   background-color: white;
 }
 
+a {
+  color: rebeccapurple;
+}
+
+a:hover {
+  color: purple;
+}
+
 .obr100 {
   max-width: 100%;
   height: auto;
@@ -35,6 +43,12 @@ body {
   image-rendering: smooth;
   border: black 2px solid;
   box-shadow: 5px 5px 5px lightgray;
+}
+
+.obrhl {
+  max-width: 170px;
+  height: auto;
+  image-rendering: smooth;
 }
 
 .cz12 {
@@ -71,12 +85,6 @@ body {
   font-size: 15pt;
 }
 
-.obrhl {
-  max-width: 170px;
-  height: auto;
-  image-rendering: smooth;
-}
-
 .wbr {
   background-image: url("images/wbr.png");
   background-repeat: no-repeat;
@@ -102,6 +110,18 @@ body {
   color: rebeccapurple;
 }
 
+.kp:hover {
+  box-shadow: 5px 5px 5px lightgray;
+  color: purple;
+}
+
+.kp img {
+  max-width: 32px;
+  height: 32px;
+  padding-right: 10px;
+  image-rendering: smooth;
+}
+
 .blank {
   height: 185px;
 }
@@ -116,24 +136,4 @@ body {
 
 .blankh {
   height: 45px;
-}
-
-.kp:hover {
-  box-shadow: 5px 5px 5px lightgray;
-  color: purple;
-}
-
-.kp img {
-  max-width: 32px;
-  height: 32px;
-  padding-right: 10px;
-  image-rendering: smooth;
-}
-
-a {
-  color: rebeccapurple;
-}
-
-a:hover {
-  color: purple;
 }
