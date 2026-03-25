@@ -6,10 +6,10 @@ body {
   font-family: "VT323", monospace;
   line-height: normal;
   text-align: center;
-  background-image: url("images/gril.png");
+  background-image: url("images/gril2.webp");
   background-repeat: no-repeat;
-  background-position: right 0px bottom -20px;
-  background-size: 110px auto;
+  background-position: right 0px bottom -3px;
+  background-size: 150px auto;
   background-color: white;
 }
 
