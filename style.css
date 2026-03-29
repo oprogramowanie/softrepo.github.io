@@ -56,6 +56,7 @@ a:hover {
 	height: 310px;
 	width: auto;
 	image-rendering: pixelated;
+	border-bottom: gray 2px dashed;
 }
 
 .cz12 {
