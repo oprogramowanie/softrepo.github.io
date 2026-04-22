@@ -122,6 +122,7 @@ a:hover {
 .kp:hover {
   box-shadow: 5px 5px 5px lightgray;
   color: purple;
+  transition: box-shadow 0.2s ease;
 }
 
 .kp img {
